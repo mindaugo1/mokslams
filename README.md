@@ -1,2 +1,2 @@
 # mokslams
-as 
+as  
